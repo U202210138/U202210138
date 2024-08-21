@@ -98,10 +98,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=U202210138&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
@@ -111,5 +107,5 @@
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
-            </a></div>
+            </a><img src="https://komarev.com/ghpvc/?username=U202210138&&style=flat-square" align="center" /></div>
 <br />
